@@ -1,0 +1,97 @@
+.content{
+    width:850px;
+    height:600px;
+    background: white;
+    border:1px solid #999;
+    padding:20px 20px 20px 20px;
+}
+.content .box{
+    position: absolute;
+    float: left;
+    width:800px;
+    height:400px;
+    background: #eee;
+    border:1px solid #999999;
+    padding:20px 20px 20px 20px;
+}
+.content .box .box-l{
+    width:170px;
+    height:120px;
+    background:white;
+    padding:20px 20px 20px 20px;
+    border:1px solid #999;
+}
+.content .box .box-l p{
+    margin-right:-10px;
+    float: right;
+}
+.content .box .box-l .logo{
+    position: absolute;
+    margin-top:-2px;
+    margin-left: -10px;
+    float: left;
+    width:80px;
+    height:80px;
+    background: #eee;
+    border:1px solid #999;
+    padding:20px 20px 20px 20px;
+}
+.content .box .box-l .logo p.p1{
+    font-size:13px;
+    margin-top:-10px;
+    margin-left:-20px;
+}
+.content .box .box-l .logo p.p2{
+    position: absolute;
+    font-size:13px;
+    margin-top:20px;
+    margin-left:5px;
+}
+.content .box .box-c{
+    position: absolute;
+    float: right;
+    margin-left:200px;
+    margin-top:-120px;
+    height:300px;
+    width:400px;
+    background: white ;
+    border:1px solid #999999;
+    padding:20px 20px 20px 20px;
+}
+.content .box .box-r{
+    position: absolute;
+    float: right;
+    margin-left:630px;
+    margin-top:-120px;
+    width:120px;
+    height:340px;
+    background: white;
+    border:1px solid #999;
+    padding:20px 20px 20px 20px;
+}
+.content .box .box-r .logo1{
+    position: absolute;
+    width:80px;
+    height:80px;
+    background: #eee;
+    border:1px solid #999;
+    padding:20px 20px 20px 20px;
+}
+.content .box .box-r .logo2{
+    position: absolute;
+    margin-top:100px;
+    width:80px;
+    height:80px;
+    background: #eee;
+    border:1px solid #999;
+    padding:20px 20px 20px 20px;
+}
+.content .box .box-r .logo3{
+    position: absolute;
+    margin-top:200px;
+    width:80px;
+    height:80px;
+    background: #eee;
+    border:1px solid #999;
+    padding:20px 20px 20px 20px;
+}
